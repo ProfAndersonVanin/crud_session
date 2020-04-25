@@ -18,5 +18,10 @@ Delete (Destroy)  ==>DELETE
 O suporte a sessões no PHP consiste em uma maneira de preservar certos dados atráves dos acessos subsequentes.
 Um visitante acessando o seu web site ganha um identificador único, o assim chamado id de sessão. Ele é salvo em um cookie do lado do usuário ou propagado via URL.
 
+# Arquivo utilizados no projeto:
+http://www.initializr.com/
+https://github.com/puikinsh/sufee-admin-dashboard
+
+
 
 Muito Obrigado!
